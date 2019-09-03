@@ -73,7 +73,7 @@
 				</ul>
 			</div>
 			<div class="btn_wrap">
-				<a href="" class="btn_type_04">목록보기</a>
+				<a href="news.php" class="btn_type_04">목록보기</a>
 			</div>
 		</div>
 	</div>
