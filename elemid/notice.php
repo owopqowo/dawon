@@ -5,25 +5,20 @@
 
 	<!-- location -->
 	<div class="location_wrap">
-		<!-- location :: PC ver -->
 		<div class="section">
+			<div class="sub_menu">
+				<ul>
+					<li><a href="teacher.php">전체선생님</a></li>
+					<li><a href="timetable.php">시간표보기</a></li>
+					<li><a href="briefing.php">설명회</a></li>
+				</ul>
+			</div>
 			<ul class="location">
 				<li>HOME</li>
 				<li>초중등관</li>
 				<li>공지사항</li>
 			</ul>
 		</div>
-		<!-- location :: PC ver -->
-
-		<!-- location :: mobile ver -->
-		<div class="sub_menu m">
-			<ul>
-				<li class="on"><a href="">전체선생님</a></li>
-				<li><a href="">시간표보기</a></li>
-				<li><a href="">설명회</a></li>
-			</ul>
-		</div>
-		<!-- location :: mobile ver -->
 	</div>
 	<!-- location -->
 
@@ -61,7 +56,7 @@
 						<tr>
 							<td>1</td>
 							<td class="tit">
-								<a href="">[다원영재관] 18년 겨울학기 전체 프로그램</a>
+								<a href="notice_detail.php">[다원영재관] 18년 겨울학기 전체 프로그램</a>
 								<div class="info_m">
 									<span>영재관 관리자</span>
 									<span>2017.11.20</span>
@@ -75,7 +70,7 @@
 						<tr>
 							<td>1</td>
 							<td class="tit">
-								<a href="">[다원영재관] 18년 겨울학기 전체 프로그램</a>
+								<a href="notice_detail.php">[다원영재관] 18년 겨울학기 전체 프로그램</a>
 								<div class="info_m">
 									<span>영재관 관리자</span>
 									<span>2017.11.20</span>
@@ -89,7 +84,7 @@
 						<tr>
 							<td>1</td>
 							<td class="tit">
-								<a href="">[다원영재관] 18년 겨울학기 전체 프로그램</a>
+								<a href="notice_detail.php">[다원영재관] 18년 겨울학기 전체 프로그램</a>
 								<div class="info_m">
 									<span>영재관 관리자</span>
 									<span>2017.11.20</span>
@@ -103,7 +98,7 @@
 						<tr>
 							<td>1</td>
 							<td class="tit">
-								<a href="">[다원영재관] 18년 겨울학기 전체 프로그램</a>
+								<a href="notice_detail.php">[다원영재관] 18년 겨울학기 전체 프로그램</a>
 								<div class="info_m">
 									<span>영재관 관리자</span>
 									<span>2017.11.20</span>
@@ -117,7 +112,7 @@
 						<tr>
 							<td>1</td>
 							<td class="tit">
-								<a href="">[다원영재관] 18년 겨울학기 전체 프로그램</a>
+								<a href="notice_detail.php">[다원영재관] 18년 겨울학기 전체 프로그램</a>
 								<div class="info_m">
 									<span>영재관 관리자</span>
 									<span>2017.11.20</span>
@@ -156,7 +151,7 @@
 
 			<!-- pager :: mobile -->
 			<div class="pager m">
-				<img src="images/pager_bg.png" alt="">
+				<img src="../images/pager_bg.png" alt="">
 				<ul>
 					<li class="navi first"><a href="">가장 앞으로</a></li>
 					<li class="navi prev"><a href="">이전</a></li>

@@ -27,6 +27,21 @@ $(function(){
 		menuOpen = false;
 	});
 
+	//one depth select
+	$('.one_depth select').change(function(){
+		var page = $(this).find('option:selected').val();
+		window.location.href = page;
+		console.log('test');
+	});
+
+	$('.one_depth select option').each(function(){
+		var target = $(this).val();
+		if(window.location.href.indexOf(target) != -1){
+			$(this).attr('selected', 'selected');
+		}
+		console.log(window.location.href.indexOf(target));
+	});
+
 	//scroll event
 	$(window).on('scroll resize', function(){
 		var headerTopH = $('.header_top').height();
@@ -82,34 +97,6 @@ $(function(){
 	});
 	$('.faq_list>li:first-child>a').trigger('click');
 
-
-	//location
-	$('.location_slide').slick({
-		arrows: false,
-		dots: false,
-		infinite: false,
-		slidesToShow: 2,
-		slidesToScroll: 1,
-		variableWidth: true,
-	});
-
-	//sub tab menu
-	$('.sub_tab_menu.m').slick({
-		arrows: false,
-		dots: false,
-		infinite: false,
-		slidesToShow: 4,
-		slidesToScroll: 1,
-		variableWidth: true,
-		responsive: [
-			{
-				breakpoint: 600,
-				settings: {
-					slidesToShow: 2
-				}
-			},
-		]
-	});
 
 	responsive();
 });

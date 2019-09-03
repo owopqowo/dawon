@@ -10,7 +10,6 @@
 .location_wrap{height:55px;border-bottom:1px solid #e8e8e9}
 .location_wrap .section{overflow:hidden}
 .location_wrap .sub_menu{float:left}
-.location_wrap .sub_menu.m{display:none}
 .location_wrap .location{float:right}
 .location_wrap ul li{float:left;line-height:55px}
 .location_wrap .sub_menu li{margin-right:20px}
@@ -121,7 +120,6 @@ input[type=search]::-webkit-search-results-decoration{display:none}
 .sub_tab_menu ul li.on a{font-weight:500;color:#424242}
 .sub_tab_menu ul li.on a:before{content:'';position:absolute;bottom:0;left:0;width:100%;height:3px;background:#ff9000}
 .sub_tab_menu .btn_type_03{float:right;margin-top:24px}
-.sub_tab_menu.m{display:none}
 
 /* preparing */
 .preparing{height:630px;text-align:center}

@@ -1,7 +1,7 @@
 <? include $_SERVER["DOCUMENT_ROOT"]."/dawon/include/header.php" ?>
 
-<!-- Container :: notice view -->
-<div id="container" class="notice view">
+<!-- Container :: news view -->
+<div id="container" class="news view">
 
 	<!-- location -->
 	<div class="location_wrap">
@@ -16,7 +16,7 @@
 			<ul class="location">
 				<li>HOME</li>
 				<li>초중등관</li>
-				<li>공지사항</li>
+				<li>새소식</li>
 			</ul>
 		</div>
 	</div>
@@ -25,7 +25,7 @@
 	<!-- content -->
 	<div class="gray_cont">
 		<div class="section">
-			<h2 class="title">공지사항</h2>
+			<h2 class="title">새소식</h2>
 			<div class="white_box">
 				<div class="head">
 					<h3>잔디쌤과 함깨하는 재미있는 물리 설명회 - 2차</h3>
@@ -68,13 +68,13 @@
 				</ul>
 			</div>
 			<div class="btn_wrap">
-				<a href="notice.php" class="btn_type_04">목록보기</a>
+				<a href="news.php" class="btn_type_04">목록보기</a>
 			</div>
 		</div>
 	</div>
 	<!-- //content -->
 
 </div>
-<!-- //Container :: notice view -->
+<!-- //Container :: news view -->
 
 <? include $_SERVER["DOCUMENT_ROOT"]."/dawon/include/footer.php" ?>

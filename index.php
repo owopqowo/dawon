@@ -19,65 +19,65 @@
 	<!-- category box -->
 	<div class="section main_category">
 		<div class="box">
-			<a href="">
+			<a href="intro">
 				<i class="icon_01"></i>
-				<h2>다원교육</h2>
+				<h2>다원교육소개</h2>
 				<p>최선이 아닌 최고가 되고자<br />노력하는 입시성공의 동반자</p>
 			</a>
 		</div>
 		<div class="box">
-			<a href="">
+			<a href="elemid">
 				<i class="icon_02"></i>
-				<h2>고등관</h2>
+				<h2>대치 초중등관</h2>
 				<p>최선이 아닌 최고가 되고자<br />노력하는 입시성공의 동반자</p>
 			</a>
 		</div>
 		<div class="box">
-			<a href="">
+			<a href="elemid">
 				<i class="icon_03"></i>
-				<h2>입시연구소</h2>
+				<h2>대치 고등관</h2>
 				<p>최선이 아닌 최고가 되고자<br />노력하는 입시성공의 동반자</p>
 			</a>
 		</div>
 		<div class="box">
-			<a href="">
+			<a href="elemid">
 				<i class="icon_04"></i>
-				<h2>초중등관</h2>
-				<p>최선이 아닌 최고가 되고자<br />노력하는 입시성공의 동반자</p>
-			</a>
-		</div>
-		<div class="box">
-			<a href="">
-				<i class="icon_05"></i>
 				<h2>영재/특목관</h2>
 				<p>최선이 아닌 최고가 되고자<br />노력하는 입시성공의 동반자</p>
 			</a>
 		</div>
 		<div class="box">
-			<a href="">
+			<a href="elemid">
+				<i class="icon_05"></i>
+				<h2>고등 특목관</h2>
+				<p>최선이 아닌 최고가 되고자<br />노력하는 입시성공의 동반자</p>
+			</a>
+		</div>
+		<div class="box">
+			<a href="elemid">
 				<i class="icon_06"></i>
 				<h2>다독원</h2>
 				<p>최선이 아닌 최고가 되고자<br />노력하는 입시성공의 동반자</p>
 			</a>
 		</div>
 		<div class="box">
-			<a href="">
+			<a href="elemid">
 				<i class="icon_04"></i>
 				<h2>목동중등</h2>
 				<p>최선이 아닌 최고가 되고자<br />노력하는 입시성공의 동반자</p>
 			</a>
 		</div>
 		<div class="box">
-			<a href="">
+			<a href="elemid">
 				<i class="icon_02"></i>
 				<h2>목동고등</h2>
 				<p>최선이 아닌 최고가 되고자<br />노력하는 입시성공의 동반자</p>
 			</a>
 		</div>
 		<div class="box">
-			<a href="">
+			<a href="elemid">
 				<i class="icon_07"></i>
-				<h2>다원교육</h2>
+				<h2>입시연구소</h2>
 				<p>최선이 아닌 최고가 되고자<br />노력하는 입시성공의 동반자</p>
 			</a>
 		</div>

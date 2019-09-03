@@ -5,13 +5,11 @@
 
 	<!-- location -->
 	<div class="location_wrap">
-		<!-- location :: PC ver -->
 		<div class="section">
 			<ul class="sub_menu">
-				<li class="on"><a href="">초중등 본관 선생님</a></li>
-				<li><a href="">초중등 영어관 선생님</a></li>
-				<li><a href="">강의 시간표</a></li>
-				<li><a href="">설명회</a></li>
+				<li class="on"><a href="teacher.php">전체선생님</a></li>
+				<li><a href="timetable.php">강의 시간표</a></li>
+				<li><a href="briefing.php">설명회</a></li>
 			</ul>
 			<ul class="location">
 				<li>HOME</li>
@@ -19,23 +17,6 @@
 				<li>초중등 본관 선생님</li>
 			</ul>
 		</div>
-		<!-- location :: PC ver -->
-
-		<!-- location :: mobile ver -->
-		<div class="sub_menu m">
-			<ul>
-				<li class="on"><a href="">전체선생님</a></li>
-				<li><a href="">시간표보기</a></li>
-				<li><a href="">설명회</a></li>
-			</ul>
-		</div>
-		<div class="location_slide">
-			<div class="on"><a href="">초중등 본관 선생님</a></div>
-			<div><a href="">초중등 영어관 선생님</a></div>
-			<div><a href="">강의 시간표</a></div>
-			<div><a href="">설명회</a></div>
-		</div>
-		<!-- location :: mobile ver -->
 	</div>
 	<!-- location -->
 
@@ -58,99 +39,99 @@
 				<ul>
 					<li>
 						<div class="img_wrap">
-							<img src="images/teacher_img_01.jpg" alt="" />
+							<img src="../images/teacher_img_01.jpg" alt="" />
 						</div>
 						<h3>전재림 선생님</h3>
-						<a href="">선생님 소개</a>
-						<a href="">시간표 보기</a>
+						<a href="teacher_detail.php">선생님 소개</a>
+						<a href="timetable.php">시간표 보기</a>
 					</li>
 					<li>
 						<div class="img_wrap">
-							<img src="images/teacher_img_01.jpg" alt="" />
+							<img src="../images/teacher_img_01.jpg" alt="" />
 						</div>
 						<h3>전재림 선생님</h3>
-						<a href="">선생님 소개</a>
-						<a href="">시간표 보기</a>
+						<a href="teacher_detail.php">선생님 소개</a>
+						<a href="timetable.php">시간표 보기</a>
 					</li>
 					<li>
 						<div class="img_wrap">
-							<img src="images/teacher_img_01.jpg" alt="" />
+							<img src="../images/teacher_img_01.jpg" alt="" />
 						</div>
 						<h3>전재림 선생님</h3>
-						<a href="">선생님 소개</a>
-						<a href="">시간표 보기</a>
+						<a href="teacher_detail.php">선생님 소개</a>
+						<a href="timetable.php">시간표 보기</a>
 					</li>
 					<li>
 						<div class="img_wrap">
-							<img src="images/teacher_img_01.jpg" alt="" />
+							<img src="../images/teacher_img_01.jpg" alt="" />
 						</div>
 						<h3>전재림 선생님</h3>
-						<a href="">선생님 소개</a>
-						<a href="">시간표 보기</a>
+						<a href="teacher_detail.php">선생님 소개</a>
+						<a href="timetable.php">시간표 보기</a>
 					</li>
 					<li>
 						<div class="img_wrap">
-							<img src="images/teacher_img_01.jpg" alt="" />
+							<img src="../images/teacher_img_01.jpg" alt="" />
 						</div>
 						<h3>전재림 선생님</h3>
-						<a href="">선생님 소개</a>
-						<a href="">시간표 보기</a>
+						<a href="teacher_detail.php">선생님 소개</a>
+						<a href="timetable.php">시간표 보기</a>
 					</li>
 					<li>
 						<div class="img_wrap">
-							<img src="images/teacher_img_01.jpg" alt="" />
+							<img src="../images/teacher_img_01.jpg" alt="" />
 						</div>
 						<h3>전재림 선생님</h3>
-						<a href="">선생님 소개</a>
-						<a href="">시간표 보기</a>
+						<a href="teacher_detail.php">선생님 소개</a>
+						<a href="timetable.php">시간표 보기</a>
 					</li>
 					<li>
 						<div class="img_wrap">
-							<img src="images/teacher_img_01.jpg" alt="" />
+							<img src="../images/teacher_img_01.jpg" alt="" />
 						</div>
 						<h3>전재림 선생님</h3>
-						<a href="">선생님 소개</a>
-						<a href="">시간표 보기</a>
+						<a href="teacher_detail.php">선생님 소개</a>
+						<a href="timetable.php">시간표 보기</a>
 					</li>
 					<li>
 						<div class="img_wrap">
-							<img src="images/teacher_img_01.jpg" alt="" />
+							<img src="../images/teacher_img_01.jpg" alt="" />
 						</div>
 						<h3>전재림 선생님</h3>
-						<a href="">선생님 소개</a>
-						<a href="">시간표 보기</a>
+						<a href="teacher_detail.php">선생님 소개</a>
+						<a href="timetable.php">시간표 보기</a>
 					</li>
 					<li>
 						<div class="img_wrap">
-							<img src="images/teacher_img_01.jpg" alt="" />
+							<img src="../images/teacher_img_01.jpg" alt="" />
 						</div>
 						<h3>전재림 선생님</h3>
-						<a href="">선생님 소개</a>
-						<a href="">시간표 보기</a>
+						<a href="teacher_detail.php">선생님 소개</a>
+						<a href="timetable.php">시간표 보기</a>
 					</li>
 					<li>
 						<div class="img_wrap">
-							<img src="images/teacher_img_01.jpg" alt="" />
+							<img src="../images/teacher_img_01.jpg" alt="" />
 						</div>
 						<h3>전재림 선생님</h3>
-						<a href="">선생님 소개</a>
-						<a href="">시간표 보기</a>
+						<a href="teacher_detail.php">선생님 소개</a>
+						<a href="timetable.php">시간표 보기</a>
 					</li>
 					<li>
 						<div class="img_wrap">
-							<img src="images/teacher_img_01.jpg" alt="" />
+							<img src="../images/teacher_img_01.jpg" alt="" />
 						</div>
 						<h3>전재림 선생님</h3>
-						<a href="">선생님 소개</a>
-						<a href="">시간표 보기</a>
+						<a href="teacher_detail.php">선생님 소개</a>
+						<a href="timetable.php">시간표 보기</a>
 					</li>
 					<li>
 						<div class="img_wrap">
-							<img src="images/teacher_img_01.jpg" alt="" />
+							<img src="../images/teacher_img_01.jpg" alt="" />
 						</div>
 						<h3>전재림 선생님</h3>
-						<a href="">선생님 소개</a>
-						<a href="">시간표 보기</a>
+						<a href="teacher_detail.php">선생님 소개</a>
+						<a href="timetable.php">시간표 보기</a>
 					</li>
 				</ul>
 			</div>

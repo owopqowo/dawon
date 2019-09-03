@@ -6,7 +6,6 @@
 
 	<!-- location -->
 	<div class="location_wrap">
-		<!-- location :: PC ver -->
 		<div class="section">
 			<ul class="sub_menu">
 				<li class="on"><a href="index.php">다원교육 소개</a></li>
@@ -20,16 +19,6 @@
 				<li>다원교육 소개</li>
 			</ul>
 		</div>
-		<!-- location :: PC ver -->
-
-		<!-- location :: mobile ver -->
-		<div class="location_slide">
-			<div class="on"><a href="index.php">다원교육 소개</a></div>
-			<div><a href="location.php">위치 안내</a></div>
-			<div><a href="system.php">시스템 소개</a></div>
-			<div><a href="staff.php">스태프 소개</a></div>
-		</div>
-		<!-- location :: mobile ver -->
 	</div>
 	<!-- location -->
 

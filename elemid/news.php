@@ -5,25 +5,20 @@
 
 	<!-- location -->
 	<div class="location_wrap">
-		<!-- location :: PC ver -->
 		<div class="section">
+			<div class="sub_menu">
+				<ul>
+					<li><a href="teacher.php">전체선생님</a></li>
+					<li><a href="timetable.php">시간표보기</a></li>
+					<li><a href="briefing.php">설명회</a></li>
+				</ul>
+			</div>
 			<ul class="location">
 				<li>HOME</li>
 				<li>초중등관</li>
 				<li>새소식</li>
 			</ul>
 		</div>
-		<!-- location :: PC ver -->
-
-		<!-- location :: mobile ver -->
-		<div class="sub_menu m">
-			<ul>
-				<li class="on"><a href="">전체선생님</a></li>
-				<li><a href="">시간표보기</a></li>
-				<li><a href="">설명회</a></li>
-			</ul>
-		</div>
-		<!-- location :: mobile ver -->
 	</div>
 	<!-- location -->
 
@@ -43,9 +38,9 @@
 				<p class="text_search"><strong><span>20</span>건</strong>의 게시물 수가 검색되었습니다.</p>
 				<ul class="grid">
 					<li>
-						<a href="">
+						<a href="news_detail.php">
 							<div class="img_wrap">
-								<img src="images/test_news_img_01.jpg" alt="test" />
+								<img src="../images/test_news_img_01.jpg" alt="test" />
 							</div>
 							<div class="text">
 								<h3>2020학년도 대비 고3 브런치 특강 2020학년도 대비 고3 브런치 특강 2020학년도 대비 고3 브런치 특강</h3>
@@ -55,9 +50,9 @@
 						</a>
 					</li>
 					<li>
-						<a href="">
+						<a href="news_detail.php">
 							<div class="img_wrap">
-								<img src="images/test_news_img_02.jpg" alt="test" />
+								<img src="../images/test_news_img_02.jpg" alt="test" />
 							</div>
 							<div class="text">
 								<h3>2020학년도 대비 고3 브런치 특강</h3>
@@ -67,9 +62,9 @@
 						</a>
 					</li>
 					<li>
-						<a href="">
+						<a href="news_detail.php">
 							<div class="img_wrap">
-								<img src="images/test_news_img_03.jpg" alt="test" />
+								<img src="../images/test_news_img_03.jpg" alt="test" />
 							</div>
 							<div class="text">
 								<h3>2020학년도 대비 고3 브런치 특강</h3>
@@ -79,9 +74,9 @@
 						</a>
 					</li>
 					<li>
-						<a href="">
+						<a href="news_detail.php">
 							<div class="img_wrap">
-								<img src="images/test_news_img_01.jpg" alt="test" />
+								<img src="../images/test_news_img_01.jpg" alt="test" />
 							</div>
 							<div class="text">
 								<h3>2020학년도 대비 고3 브런치 특강</h3>
@@ -91,9 +86,9 @@
 						</a>
 					</li>
 					<li>
-						<a href="">
+						<a href="news_detail.php">
 							<div class="img_wrap">
-								<img src="images/test_news_img_02.jpg" alt="test" />
+								<img src="../images/test_news_img_02.jpg" alt="test" />
 							</div>
 							<div class="text">
 								<h3>2020학년도 대비 고3 브런치 특강</h3>
@@ -103,9 +98,9 @@
 						</a>
 					</li>
 					<li>
-						<a href="">
+						<a href="news_detail.php">
 							<div class="img_wrap">
-								<img src="images/test_news_img_03.jpg" alt="test" />
+								<img src="../images/test_news_img_03.jpg" alt="test" />
 							</div>
 							<div class="text">
 								<h3>2020학년도 대비 고3 브런치 특강</h3>

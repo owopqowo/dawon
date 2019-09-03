@@ -62,15 +62,15 @@
 			<div class="one_depth">
 				<span>대치 초·중등관</span>
 				<select class="" name="">
-					<option value="">다원교육소개</option>
+					<option value="/dawon/intro/">다원교육소개</option>
 					<option value="/dawon/elemid/">대치초·중등관</option>
-					<option value="/dawon/elemid/">대치고등관</option>
-					<option value="/dawon/elemid/">영재관</option>
-					<option value="/dawon/elemid/">특목관</option>
-					<option value="/dawon/elemid/">다독원</option>
-					<option value="/dawon/elemid/">입시연구소</option>
-					<option value="/dawon/elemid/">목동초중등관</option>
-					<option value="/dawon/elemid/">목동고등관</option>
+					<option value="#">대치고등관</option>
+					<option value="#">영재관</option>
+					<option value="#">특목관</option>
+					<option value="#">다독원</option>
+					<option value="#">입시연구소</option>
+					<option value="#">목동초중등관</option>
+					<option value="#">목동고등관</option>
 				</select>
 			</div>
 			<div class="btn_wrap">
@@ -90,34 +90,32 @@
 			</div>
 			<!-- //logout -->
 			<!-- login -->
-			<div class="login">
+			<!-- <div class="login">
 				<a href="">로그아웃</a>
 				<p><strong>홍길동</strong> 님 반갑습니다.</p>
-			</div>
+			</div> -->
 			<!-- //login -->
 			<div class="inner_gnb">
 				<ul class="common_menu">
 					<li>
-						<a href="">다원교육소개</a>
+						<a href="/dawon/intro/">다원교육소개</a>
 						<ul>
-							<li><a href="">다원교육 소개</a></li>
-							<li><a href="">다원교육 위치안내</a></li>
-							<li><a href="">시스템 소개</a></li>
-							<li><a href="">스태프 소개</a></li>
+							<li><a href="/dawon/intro/">다원교육 소개</a></li>
+							<li><a href="/dawon/intro/location.php">다원교육 위치안내</a></li>
+							<li><a href="/dawon/intro/system.php">시스템 소개</a></li>
+							<li><a href="/dawon/intro/staff.php">스태프 소개</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="">대치초·중등관</a>
+						<a href="/dawon/elemid/">대치초·중등관</a>
 						<ul>
-							<li><a href="">소개</a></li>
-							<li><a href="">선생님 소개_본관</a></li>
-							<li><a href="">선생님 소개_영어관</a></li>
-							<li><a href="">강의 시간표_본관</a></li>
-							<li><a href="">강의 시간표_영어관</a></li>
-							<li><a href="">설명회</a></li>
-							<li><a href="">공지사항</a></li>
-							<li><a href="">새소식</a></li>
-							<li><a href="">자주하는 질문</a></li>
+							<li><a href="/dawon/elemid/">소개</a></li>
+							<li><a href="/dawon/elemid/teacher.php">선생님 소개</a></li>
+							<li><a href="/dawon/elemid/timetable.php">강의 시간표</a></li>
+							<li><a href="/dawon/elemid/briefing.php">설명회</a></li>
+							<li><a href="/dawon/elemid/notice.php">공지사항</a></li>
+							<li><a href="/dawon/elemid/news.php">새소식</a></li>
+							<li><a href="/dawon/elemid/faq.php">자주하는 질문</a></li>
 						</ul>
 					</li>
 					<li>
